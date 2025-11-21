@@ -1,3 +1,12 @@
+/*"""* Equipe:
+- Daniel Cavalcanti Noronha
+- Alberto Silva
+- Bernardo Cardoso
+- Cauã Lucas
+- Davi Spindola"""; */
+
+
+
 package br.agenda.model;
 
 public class Contato {
